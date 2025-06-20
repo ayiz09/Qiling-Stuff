@@ -1,1 +1,1 @@
-Dump qiling stuff
+Dump rootfs by script on windows.
