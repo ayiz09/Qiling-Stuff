@@ -1,1 +1,1 @@
-Dump rootfs by script on windows.
+Dump rootfs windows.
